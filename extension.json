@@ -1,9 +1,8 @@
 {
-  "id": "external-api-dropdown",
-  "name": "External API Dropdown",
+  "id": "mos-user-info-input",
+  "name": "mos-user-info property",
   "srcdoc": "./build/index.html",
   "fieldTypes": [
-    "Symbol",
     "Text"
   ]
 }
